@@ -2,7 +2,7 @@
  * A Bot for Slack!
  */
 
-// hui
+// hui, changed again
 
 /**
  * Define a function for initiating a conversation on installation
